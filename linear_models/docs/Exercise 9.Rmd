@@ -6,6 +6,6 @@ Histogram, boxplot and QQ-norm plots for the given distributions.
 
 This distribution has 0 mean and variance 1.
 
-![Normal histogram][normal-hist]
+[!Normal histogram][normal-hist]
 
 [normal-hist]: ../output/exercise9/normal-hist.png
