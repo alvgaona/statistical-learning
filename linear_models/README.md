@@ -1,6 +1,6 @@
 # Linear Models
 
-This module focuses on linear models and techniques to estimate observed variables from their explanatory variables. Hence, the need to find functions that are linear in their parameters which will try to explain or predict the variables of interest.
+This module focuses on linear models and techniques to estimate response variables from their explanatory variables. Hence, the need to find functions that are linear in their parameters which will try to explain or predict the variables of interest.
 
 ## Exercises
 
