@@ -4,6 +4,6 @@ This module focuses on linear models and techniques to estimate observed variabl
 
 ## Exercises
 
-![Guide 1]
+[Guide 1][Guide 1] contains theoretical and practical exercises focused on linear models.
 
 [Guide 1]: https://drive.google.com/file/d/161CyylAGiYNM9ZlA4n9RbRfA5e93Z9vo/view?usp=sharing
