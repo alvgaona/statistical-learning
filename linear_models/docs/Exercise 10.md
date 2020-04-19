@@ -1,4 +1,4 @@
-# Exercise 10
+# Exercise 10 (G.1)
 
 Using [graduates.csv][graduates.csv] we have calculated its mean, median, truncated median (10%) as well as standard deviation, interquartile range and MAD.
 
@@ -24,6 +24,6 @@ According to the normal Q-Q plot we can assume it corresponds to a gaussian dist
 
 ![QQPlot]
 
-[graduates.csv]: ./linear_models/data/graduates.csv
-[Boxplot]: ./linear_models/output/exercise10/graduates-boxplot.png
-[QQPlot]: ./linear_models/output/exercise10/graduates-qqnorm.png
+[graduates.csv]: ../data/graduates.csv
+[Boxplot]: ../output/exercise10/graduates-boxplot.png
+[QQPlot]: ../output/exercise10/graduates-qqnorm.png
