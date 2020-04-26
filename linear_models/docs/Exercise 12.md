@@ -25,7 +25,7 @@ Multiple R-squared:  0.09095,	Adjusted R-squared:  0.07201
 F-statistic: 4.802 on 1 and 48 DF,  p-value: 0.03331
 ```
 
-Looking at the regression line it appears to be no correlation between the lots and the investment.
+Looking at the regression line it appears to be no correlation between investment and lots.
 
-[sunflowers.csv]: ../data/sunflowers.csv
+[sunflowers]: ../data/sunflowers.csv
 [Linear regression]: ../output/exercise12/regression.png
