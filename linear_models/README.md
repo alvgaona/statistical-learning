@@ -4,6 +4,8 @@ This module focuses on linear models and techniques to estimate response variabl
 
 ## Exercises
 
-[Guide 1][Guide 1] (spanish version) contains theoretical and practical exercises focused on linear models.
+[Exercise Guide 1][Guide 1] (spanish version) 
+[Exercise Guide 2][Guide 2] (spanish version)
 
 [Guide 1]: https://drive.google.com/file/d/161CyylAGiYNM9ZlA4n9RbRfA5e93Z9vo/view?usp=sharing
+[Guide 2]: https://drive.google.com/file/d/1Y0dquXxXiNzmhoHS5ICLlesnPXRSts5L/view?usp=sharing
