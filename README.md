@@ -4,8 +4,6 @@ A Ph.D course from University of Buenos Aires, Faculty of Engineering
 
 ## Anaconda
 
-![anaconda-logo](https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png)
-
 This repository uses [Anaconda] as a environment manager and [Conda] as a package manager.
 
 ### How to set up
