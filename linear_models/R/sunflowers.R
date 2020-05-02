@@ -1,19 +1,12 @@
 # Exercise 12
-
 sunflowers <- read.csv("./linear_models/data/sunflowers.csv")
-investment <- sunflowers$Investment
-lots <- sunflowers$Lots # In kg
 
 # Scatter plot investment vs profit
-plot(investment, profit,
-     main = "Scatter Plot",
-     xlab = "Investment",
-     ylab = "Lots")
+ggplot(sunflowers, aes(x=Investment, y=Harvest)) +
+  geom_point() +
+  geom_smooth(method = "lm", formula = y~x) +
+  labs(title="Scatterplot", x="Investment [usd]", y="Harvest [kg]")
 
 # Linear regression
-model <- lm(investment~lots, data=sunflowers)
-
-# Plot linear model
-abline(model, col="Forestgreen")
-
+model <- lm(Harvest~Investment, data=sunflowers)
 summary(model)
